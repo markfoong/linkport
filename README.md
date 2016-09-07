@@ -1,1 +1,2 @@
-# linkport
+# initial linkport project
+initial documentation
